@@ -1,0 +1,2 @@
+# NewtonFractal
+Group Python project
